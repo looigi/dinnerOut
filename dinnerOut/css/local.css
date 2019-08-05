@@ -1,0 +1,16 @@
+﻿.testo {
+    font: normal 16px/1.4 "News701 BT", sans-serif !important;
+    line-height: 1.6em;
+}
+
+.dimeTestoNormale {
+    font-size: 27px !important;
+}
+
+.Titolo {
+    position: relative;
+    line-height: 100px;
+    font-size: 40px;
+    font-family: "News701 BT",sans-serif;
+    font-style: italic;
+}
