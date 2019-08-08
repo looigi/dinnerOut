@@ -1,8 +1,8 @@
 ﻿.corpo {
-    background-image: url('../App_Themes/Standard/images/extra3.png');
+    /* background-image: url('../App_Themes/Standard/images/extra3.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: center; */
 }
 
 .testo {
@@ -37,11 +37,12 @@
 .casellaPartner {
     text-align: center;
     padding: 3px;
-    opacity: .7;
+    opacity: .5;
     background-color: transparent !important;
     border: 0px;
 }
 
 .casellaTeam {
     padding: 5px;
+    opacity: .5;
 }

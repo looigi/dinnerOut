@@ -15,7 +15,7 @@ function accendiPartner(oggetto) {
 
 function spegniPartner(oggetto) {
     oggetto.style.backgroundColor = "transparent";
-    oggetto.style.opacity = ".7"
+    oggetto.style.opacity = ".5"
     oggetto.style.border = "0px";
     oggetto.style.borderRadius = "0px";
 }

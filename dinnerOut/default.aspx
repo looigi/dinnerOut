@@ -57,22 +57,22 @@
                 </span>
                 <br />
                 <div class="row">
-                    <div id="divPartner1" class="col-2 casellaPartner" onmouseover="accendiPartner(divPartner1)" onmouseout="spegniPartner(divPartner1)">
+                    <div id="divPartner1" class="col casellaPartner" onmouseover="accendiPartner(divPartner1)" onmouseout="spegniPartner(divPartner1)">
                         <a href="http://www.aromaweb.it/">
                             <img src="App_Themes/Standard/images/partners/aroma2.png" style="width: 100%; height: 100%;"/>
                         </a>
                     </div>
-                    <div id="divPartner2" class="col-2 casellaPartner" onmouseover="accendiPartner(divPartner2)" onmouseout="spegniPartner(divPartner2)">
+                    <div id="divPartner2" class="col casellaPartner" onmouseover="accendiPartner(divPartner2)" onmouseout="spegniPartner(divPartner2)">
                         <a href="http://www.ilbuongusto.net/">
                             <img src="App_Themes/Standard/images/partners/IlBuongusto2.png" style="width: 100%; height: 100%;" />
                         </a>
                     </div>
-                    <div id="divPartner3" class="col-2 casellaPartner" onmouseover="accendiPartner(divPartner3)" onmouseout="spegniPartner(divPartner3)">
+                    <div id="divPartner3" class="col casellaPartner" onmouseover="accendiPartner(divPartner3)" onmouseout="spegniPartner(divPartner3)">
                         <a href="http://www.brandimartesrl.it/">
                             <img src="App_Themes/Standard/images/partners/logoBrandimarte_03.png" style="width: 100%; height: 100%;" />
                         </a>
                     </div>
-                    <div id="divPartner4" class="col-2 casellaPartner" onmouseover="accendiPartner(divPartner4)" onmouseout="spegniPartner(divPartner4)">
+                    <div id="divPartner4" class="col casellaPartner" onmouseover="accendiPartner(divPartner4)" onmouseout="spegniPartner(divPartner4)">
                         <a href="http://www.whererome.it/">
                             <img src="App_Themes/Standard/images/partners/WhereRome1.png" style="width: 100%; height: 100%;" />
                         </a>
@@ -83,19 +83,19 @@
                 </span>
                 <br />
                 <div class="row">
-                    <div id="divAffiliate1" class="col-2 casellaPartner" onmouseover="accendiPartner(divAffiliate1)" onmouseout="spegniPartner(divAffiliate1)">
+                    <div id="divAffiliate1" class="col casellaPartner" onmouseover="accendiPartner(divAffiliate1)" onmouseout="spegniPartner(divAffiliate1)">
                         <img src="App_Themes/Standard/images/affiliate/alce2.png" style="width: 100%; height: 100%;"/>
                     </div>
-                    <div id="divAffiliate2" class="col-2 casellaPartner" onmouseover="accendiPartner(divAffiliate2)" onmouseout="spegniPartner(divAffiliate2)">
+                    <div id="divAffiliate2" class="col casellaPartner" onmouseover="accendiPartner(divAffiliate2)" onmouseout="spegniPartner(divAffiliate2)">
                         <img src="App_Themes/Standard/images/affiliate/logoCSattrezzature2.png" style="width: 100%; height: 100%;" />
                     </div>
-                    <div id="divAffiliate3" class="col-2 casellaPartner" onmouseover="accendiPartner(divAffiliate3)" onmouseout="spegniPartner(divAffiliate3)">
+                    <div id="divAffiliate3" class="col casellaPartner" onmouseover="accendiPartner(divAffiliate3)" onmouseout="spegniPartner(divAffiliate3)">
                         <img src="App_Themes/Standard/images/affiliate/persili1.JPG" style="width: 100%; height: 100%;" />
                     </div>
-                    <div id="divAffiliate4" class="col-2 casellaPartner" onmouseover="accendiPartner(divAffiliate4)" onmouseout="spegniPartner(divAffiliate4)">
+                    <div id="divAffiliate4" class="col casellaPartner" onmouseover="accendiPartner(divAffiliate4)" onmouseout="spegniPartner(divAffiliate4)">
                         <img src="App_Themes/Standard/images/affiliate/quadra.png" style="width: 100%; height: 100%;" />
                     </div>
-                    <div id="divAffiliate5" class="col-2 casellaPartner" onmouseover="accendiPartner(divAffiliate5)" onmouseout="spegniPartner(divAffiliate5)">
+                    <div id="divAffiliate5" class="col casellaPartner" onmouseover="accendiPartner(divAffiliate5)" onmouseout="spegniPartner(divAffiliate5)">
                         <img src="App_Themes/Standard/images/affiliate/romaProcess.png" style="width: 100%; height: 100%;" />
                     </div>
                 </div>
@@ -144,24 +144,24 @@
             </div>
 
             <div id="anchorTeam" style="width: 100%; padding-top: 80px;">
-                <span class="Titolo">Il Team</span>
+                <img src="App_Themes/Standard/images/_icon12.png" />&nbsp;<span class="Titolo">Il Team</span>
                 <br />
                 <div class="row">
-                    <div id="divTeam1" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam1)" onmouseout="spegniPartner(divTeam1)">
+                    <div id="divTeam1" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam1)" onmouseout="spegniPartner(divTeam1)">
                         <img src="App_Themes/Standard/images/team/bertipagliaRoberto.png" />
                         <br />
                         <span class="testo grassetto">Roberto Bertipaglia</span>
                         <br />
                         <span class="testo">General Manager</span>
                     </div>
-                    <div id="divTeam2" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam2)" onmouseout="spegniPartner(divTeam2)">
+                    <div id="divTeam2" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam2)" onmouseout="spegniPartner(divTeam2)">
                         <img src="App_Themes/Standard/images/team/claudiofavale.png" />
                         <br />
                         <span class="testo grassetto">Claudio Favale</span>
                         <br />
                         <span class="testo"></span>
                     </div>
-                    <div id="divTeam3" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam3)" onmouseout="spegniPartner(divTeam3)">
+                    <div id="divTeam3" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam3)" onmouseout="spegniPartner(divTeam3)">
                         <img src="App_Themes/Standard/images/team/danieleRocca.png" />
                         <br />
                         <span class="testo grassetto">Daniele Rocca</span>
@@ -170,21 +170,21 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div id="divTeam4" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam4)" onmouseout="spegniPartner(divTeam4)">
+                    <div id="divTeam4" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam4)" onmouseout="spegniPartner(divTeam4)">
                         <img src="App_Themes/Standard/images/team/debellis.png" />
                         <br />
                         <span class="testo grassetto">De Bellis</span>
                         <br />
                         <span class="testo"></span>
                     </div>
-                    <div id="divTeam5" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam5)" onmouseout="spegniPartner(divTeam5)">
+                    <div id="divTeam5" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam5)" onmouseout="spegniPartner(divTeam5)">
                         <img src="App_Themes/Standard/images/team/francescoradiciotti1.jpg" />
                         <br />
                         <span class="testo grassetto">Francesco Radiciotti</span>
                         <br />
                         <span class="testo"></span>
                     </div>
-                    <div id="divTeam6" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam6)" onmouseout="spegniPartner(divTeam6)">
+                    <div id="divTeam6" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam6)" onmouseout="spegniPartner(divTeam6)">
                         <img src="App_Themes/Standard/images/team/giulianogemma.png" />
                         <br />
                         <span class="testo grassetto">Giuliano Gemma</span>
@@ -193,14 +193,14 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div id="divTeam7" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam7)" onmouseout="spegniPartner(divTeam7)">
+                    <div id="divTeam7" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam7)" onmouseout="spegniPartner(divTeam7)">
                         <img src="App_Themes/Standard/images/team/mirkoCovino.png" />
                         <br />
                         <span class="testo grassetto">Mirko Covino</span>
                         <br />
                         <span class="testo"></span>
                     </div>
-                    <div id="divTeam8" class="col-4 casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam8)" onmouseout="spegniPartner(divTeam8)">
+                    <div id="divTeam8" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divTeam8)" onmouseout="spegniPartner(divTeam8)">
                         <img src="App_Themes/Standard/images/team/salvoCravero.png" />
                         <br />
                         <span class="testo grassetto">Salvo Cravero</span>
@@ -209,7 +209,88 @@
                     </div>
                 </div>
             </div>
-        </div>        
+
+            <div id="anchorDicono" style="width: 100%; padding-top: 80px;">
+                <img src="App_Themes/Standard/images/_icon9.png" />&nbsp;<span class="Titolo">Dicono di noi</span>
+                <br />
+                <div class="row">
+                    <div id="divDicono1" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono1)" onmouseout="spegniPartner(divDicono1)">
+                        <a href="App_Themes/Standard/images/recensioni/AromaWeb1.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Aroma Web 1</span>
+                        </a>
+                    </div>
+                    <div id="divDicono2" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono2)" onmouseout="spegniPartner(divDicono2)">
+                        <a href="App_Themes/Standard/images/recensioni/Articolo Aroma 2012_new.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Aroma Web 2</span>
+                        </a>
+                    </div>
+                    <div id="divDicono3" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono3)" onmouseout="spegniPartner(divDicono3)">
+                        <a href="App_Themes/Standard/images/recensioni/Articolo Corriere della Sera 2009_new.jpeg">
+                            <img src="App_Themes/Standard/images/recensioni/Articolo Corriere della Sera 2009_new.jpeg" width ="100%"/>
+                            <br />
+                            <span class="testo grassetto">Corriere della sera 1</span>
+                        </a>
+                    </div>
+                    <div id="divDicono4" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono4)" onmouseout="spegniPartner(divDicono4)">
+                        <a href="App_Themes/Standard/images/recensioni/Articolo pag. 3_new.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Dining</span>
+                        </a>
+                    </div>
+                 </div>
+                 <div class="row">
+                   <div id="divDicono5" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono5)" onmouseout="spegniPartner(divDicono5)">
+                        <a href="App_Themes/Standard/images/recensioni/Articolo Trovaroma Repubblica 2010_new.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">TrovaRoma 1</span>
+                        </a>
+                    </div>
+                    <div id="divDicono7" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono7)" onmouseout="spegniPartner(divDicono7)">
+                        <a href="App_Themes/Standard/images/recensioni/Garbatella.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Garbatella</span>
+                        </a>
+                    </div>
+                    <div id="divDicono9" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono9)" onmouseout="spegniPartner(divDicono9)">
+                        <a href="App_Themes/Standard/images/recensioni/LaCiambella1.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">La Ciambella</span>
+                        </a>
+                    </div>
+                    <div id="divDicono10" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono10)" onmouseout="spegniPartner(divDicono10)">
+                        <a href="App_Themes/Standard/images/recensioni/le_gemme.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Le Gemme</span>
+                        </a>
+                    </div>
+                 </div>
+                 <div class="row">
+                    <div id="divDicono11" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono11)" onmouseout="spegniPartner(divDicono11)">
+                        <a href="App_Themes/Standard/images/recensioni/locanda_dei_matteini.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Locanda dei Matteini</span>
+                        </a>
+                    </div>
+                    <div id="divDicono12" class="col casellaTeam" style="text-align: center;"  onmouseover="accendiPartner(divDicono12)" onmouseout="spegniPartner(divDicono12)">
+                        <a href="App_Themes/Standard/images/recensioni/olivella.pdf">
+                            <img src="App_Themes/Standard/images/pdf.png" />
+                            <br />
+                            <span class="testo grassetto">Olivella</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+         </div>        
     </div>
 
     <div class="col-1" style="position: fixed; right: 0px; height: 55vh; top: 45%; vertical-align: middle;">
@@ -292,6 +373,17 @@
                                 <a class="nav-link" href="#anchorTeam">Il Team <span class="sr-only">(current)</span></a>
                             </div>
                             <div id="barrettaTasto3" class="col-12" style="height: 5px; background-color: white;">
+                            </div>
+                        </div>
+                    </div>
+                  </li>
+                  <li class="nav-item active">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="col-12" onmouseover="accendiBarretta(barrettaTasto7);" onmouseout="spegniBarretta(barrettaTasto7);">
+                                <a class="nav-link" href="#anchorDicono">Dicono di noi <span class="sr-only">(current)</span></a>
+                            </div>
+                            <div id="barrettaTasto7" class="col-12" style="height: 5px; background-color: white;">
                             </div>
                         </div>
                     </div>

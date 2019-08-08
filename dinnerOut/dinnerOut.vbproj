@@ -93,6 +93,9 @@
     <Content Include="App_Themes\Standard\images\partners\IlBuongusto2.png" />
     <Content Include="App_Themes\Standard\images\partners\logoBrandimarte_03.png" />
     <Content Include="App_Themes\Standard\images\partners\WhereRome1.png" />
+    <Content Include="App_Themes\Standard\images\pdf.png" />
+    <Content Include="App_Themes\Standard\images\recensioni\Articolo Corriere della Sera 2009_new.jpeg" />
+    <Content Include="App_Themes\Standard\images\recensioni\IMG-20171103-WA0000.jpg" />
     <Content Include="App_Themes\Standard\images\slider\1.jpg" />
     <Content Include="App_Themes\Standard\images\slider\2.jpg" />
     <Content Include="App_Themes\Standard\images\slider\3.jpg" />
@@ -108,6 +111,7 @@
     <Content Include="App_Themes\Standard\images\team\mirkoCovino.png" />
     <Content Include="App_Themes\Standard\images\team\salvoCravero.png" />
     <Content Include="App_Themes\Standard\images\_icon10.png" />
+    <Content Include="App_Themes\Standard\images\_icon12.png" />
     <Content Include="App_Themes\Standard\images\_icon14.png" />
     <Content Include="App_Themes\Standard\images\_icon2.png" />
     <Content Include="App_Themes\Standard\images\_icon4.png" />
@@ -177,6 +181,15 @@
     <Content Include="js\bootstrap.bundle.min.js.map" />
     <Content Include="js\bootstrap.js.map" />
     <Content Include="js\bootstrap.min.js.map" />
+    <Content Include="App_Themes\Standard\images\recensioni\AromaWeb1.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\Articolo Aroma 2012_new.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\Articolo pag. 3_new.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\Articolo Trovaroma Repubblica 2010_new.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\Garbatella.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\LaCiambella1.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\le_gemme.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\locanda_dei_matteini.pdf" />
+    <Content Include="App_Themes\Standard\images\recensioni\olivella.pdf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
