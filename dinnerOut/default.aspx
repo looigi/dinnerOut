@@ -11,7 +11,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" />
 
     <link href="css/local.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <link href="css/bxSlider.css" rel="stylesheet" />
 </head>
 <body class="corpo">
     <div class="container-fluid">
@@ -19,34 +19,36 @@
         <div class="col-1" ></div>
         <div class="col-10">
             <div class="bxslider" style="width: 100%;">
-              <div><img src="App_Themes/Standard/images/slider/1.jpg"></div>
-              <div><img src="App_Themes/Standard/images/slider/2.jpg"></div>
-              <div><img src="App_Themes/Standard/images/slider/3.jpg"></div>
-              <div><img src="App_Themes/Standard/images/slider/4.jpg"></div>
-              <div><img src="App_Themes/Standard/images/slider/5.jpg"></div>
+              <div><img src="App_Themes/Standard/images/slider/00.png"></div>
+              <div><img src="App_Themes/Standard/images/slider/01.jpg"></div>
+              <div><img src="App_Themes/Standard/images/slider/02.jpg"></div>
+              <div><img src="App_Themes/Standard/images/slider/03.jpg"></div>
+              <div><img src="App_Themes/Standard/images/slider/04.jpg"></div>
+              <div><img src="App_Themes/Standard/images/slider/05.jpg"></div>
             </div>
 
             <div id="anchorAbout" style="width: 100%; padding-top: 75px;">
                 <span class="Titolo">About Us</span>
                 <br />
                     <div class="row">
-                        <div class="col 6" style="text-align: left;">
+                        <div class="col 12" style="text-align: left;">
                             <span class="testo dimeTestoNormale">
                                 <img src="App_Themes/Standard/images/_icon10.png" />&nbsp;<span class="coloreOcra">Welcome</span><br />
                                 La Dinner Out Consulting è un'azienda di consulenza dinamica che mette a disposizione dei clienti la propria professionalità per offrire 
                                 le giuste strategie nel settore della ristorazione, indispensabile in un mercato sempre più competitivo ed in continua evoluzione.
+                                <br />
+                                <br />
+                                La DinnerOut Consulting offre servizi di consulenza ad alto livello per Ristorazione, Bar, GDO, Enoteca, Vendita al Dettaglio, Alberghiero, Comunità, Mense Aziendali, Catering e Banqueting, Restyling dei locali e dei Menù, Recruiting e Formazione del Personale.
+                                Visto l'attuale interesse rivolto sia alla qualità che alla semplicità del cibo e della ristorazione, l'intento è fondere e sviluppare nuovi concept di vendita e di distribuzione dell'alta gastronomia rispettando le stagionalità dei prodotti e le bio-dinamicità dei vini, elementi essenziali ed indispensabili in un mercato sempre più competitivo ed in continua evoluzione.
                             </span>
                             <br /><br />
-                            <span class="coloreOcra">More about us</span>
-                        </div>
-                        <div class="col 6" style="text-align: right;">
                             <span class="testo dimeTestoNormale">
-                            <img src="App_Themes/Standard/images/_icon2.png" />&nbsp;<span class="coloreOcra">More About Us</span><br />
-                            Company profile<br />
-                            Offriamo una consulenza tecnica per lo start-up, la revisione e il restilyng delle maggiori attività commerciali legate al cibo.
-                            <br /><br />
+                                <img src="App_Themes/Standard/images/_icon2.png" />&nbsp;<span class="coloreOcra">More About Us</span><br />
+                                Company profile<br />
+                                Offriamo una consulenza tecnica per lo start-up, la revisione e il restilyng delle maggiori attività commerciali legate al cibo.
                             </span>
-                            <span class="coloreOcra">Read More</span>
+<%--                            <br /><br />
+                            <span class="coloreOcra">More about us</span>--%>
                         </div>
                     </div>
             </div>
