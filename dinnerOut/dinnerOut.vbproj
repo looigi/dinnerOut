@@ -88,6 +88,7 @@
     <Content Include="App_Themes\Standard\images\affiliate\romaProcess.png" />
     <Content Include="App_Themes\Standard\images\bx_loader.gif" />
     <Content Include="App_Themes\Standard\images\controls.png" />
+    <Content Include="App_Themes\Standard\images\elimina_quadrato.png" />
     <Content Include="App_Themes\Standard\images\extra3.png" />
     <Content Include="App_Themes\Standard\images\followIcon1.png" />
     <Content Include="App_Themes\Standard\images\followIcon2.png" />
