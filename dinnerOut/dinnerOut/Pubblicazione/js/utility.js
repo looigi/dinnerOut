@@ -76,7 +76,7 @@ function ritornaTesto(numeroTesto) {
             testo += "<p>Calvin Klein – Donna Karan N.Y.– Due Ponti sporting club – ‘Gusto – Yoga(Conserve Italia) – Vincenzo Cantatore – Miss Italia – Gino Santercole – Sporting club Delle Vittorie – Studio Associato Legance – Ambasciata Israeliana – David Mayer Naman('Mezzo, Retro, Retro2, ";
             testo += "gruppo Acqua e farina) – Ambasciata Kuwait – Universal Film – Gianfranco Fini – La locanda dei Matteini - Caffetteria Dal Borghese – Caffé Fiorini – Antico caffé Cile – Fortunato al Pantheon – La Ciambella Roma – Retrobottega – La Pampa – Le terrazze Castel S.Angelo - Forza Italia – Mada Food GDO – Marmo – Olim Palus Latina – Angelina a Testaccio – Angelina a Trevi – In Cibo veritas – Gustó Artena(Rm) - Pisana sporting club - Il Fungo 14mo piano Roma - Al Boschetto Marino(Rm) - White Beach Terracina(Lt) - Beef Bazaar - Officine del pesce - Plancha - Plancino - Teho Fish restaurant - Pinco Pallino(Polonia) - Aroma osteria(Roma - Formentera) - Babà Yoga - Help pub - Suami - La Rosetta(Stella Michelin) - Ristorí - Mancio - Tram Depot - Osteria il 9 - Il Frantoio - The Porter Terracina(Lt) - Otello alla concordia -  </p>";
             testo += "<p>La mia azienda ha seguito un cammino laborioso con diversi Chef e Manager stellati.</p>";
-            testo += "<p>Ora grazie alla fiducia accordatami dal Dott.Francesco Argenti, mi accingo a effettuare la collaborazione finalizzata alla realizzazione del suo nuovo progetto che si concretizzerà a brevissimo, in un locale unico nel suo genere improntato su diversi tipi di cucina fusion e internazionale con l'elemento principale "La Carne".</p>";
+            testo += "<p>Ora grazie alla fiducia accordatami dal Dott.Francesco Argenti, mi accingo a effettuare la collaborazione finalizzata alla realizzazione del suo nuovo progetto che si concretizzerà a brevissimo, in un locale unico nel suo genere improntato su diversi tipi di cucina fusion e internazionale con l'elemento principale 'La Carne'.</p>";
             testo += "<p>Stay tuned</p>";
             testo += "<p>Mr.Roberto Bertipaglia</p>";
             break;
@@ -97,6 +97,11 @@ function ritornaTesto(numeroTesto) {
             break;
         case 5:
             testo += "<p>FRANCESCO RADICIOTTI</p>";
+            testo += "<p>Sono diventato Sommelier per gioco 12 anni fa...</p>";
+            testo += "<p>il gioco è diventato passione e la passione si è trasformata in lavoro.Sono docente Fisar e preparo i nuovi sommelier.";
+            testo += "Faccio consulenza nella stesura delle carte dei vini per i ristoranti e formazione del personale di sala.</p>";
+            testo += "<p>Organizzo degustazioni sia a tema sia in diretta collaborazione con i produttori...e serate 'a casa mia' con piccoli gruppi di appassionati e curiosi,";
+            testo += "per scoprire una realtà immensa come quella vitivinicola.</p><p>Quindi racconto storie...ma sempre storie vere.</p>";
             break;
         case 6:
             testo += "<p>GIULIANO GEMMA</p>";

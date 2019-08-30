@@ -97,6 +97,11 @@ function ritornaTesto(numeroTesto) {
             break;
         case 5:
             testo += "<p>FRANCESCO RADICIOTTI</p>";
+            testo += "<p>Sono diventato Sommelier per gioco 12 anni fa...</p>";
+            testo += "<p>il gioco è diventato passione e la passione si è trasformata in lavoro.Sono docente Fisar e preparo i nuovi sommelier.";
+            testo += "Faccio consulenza nella stesura delle carte dei vini per i ristoranti e formazione del personale di sala.</p>";
+            testo += "<p>Organizzo degustazioni sia a tema sia in diretta collaborazione con i produttori...e serate 'a casa mia' con piccoli gruppi di appassionati e curiosi,";
+            testo += "per scoprire una realtà immensa come quella vitivinicola.</p><p>Quindi racconto storie...ma sempre storie vere.</p>";
             break;
         case 6:
             testo += "<p>GIULIANO GEMMA</p>";
