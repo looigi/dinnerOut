@@ -92,6 +92,16 @@
     <Content Include="App_Themes\Standard\images\extra3.png" />
     <Content Include="App_Themes\Standard\images\followIcon1.png" />
     <Content Include="App_Themes\Standard\images\followIcon2.png" />
+    <Content Include="App_Themes\Standard\images\icone\area vendita.png" />
+    <Content Include="App_Themes\Standard\images\icone\comunicazione.png" />
+    <Content Include="App_Themes\Standard\images\icone\concept.png" />
+    <Content Include="App_Themes\Standard\images\icone\cuoco.png" />
+    <Content Include="App_Themes\Standard\images\icone\progettazione.png" />
+    <Content Include="App_Themes\Standard\images\icone\recruiting.png" />
+    <Content Include="App_Themes\Standard\images\icone\software.png" />
+    <Content Include="App_Themes\Standard\images\icone\startup.png" />
+    <Content Include="App_Themes\Standard\images\icone\supporto tecnico.png" />
+    <Content Include="App_Themes\Standard\images\icone\supporto.png" />
     <Content Include="App_Themes\Standard\images\partners\aroma2.png" />
     <Content Include="App_Themes\Standard\images\partners\IlBuongusto2.png" />
     <Content Include="App_Themes\Standard\images\partners\logoBrandimarte_03.png" />
@@ -195,6 +205,7 @@
     <Content Include="App_Themes\Standard\images\recensioni\le_gemme.pdf" />
     <Content Include="App_Themes\Standard\images\recensioni\locanda_dei_matteini.pdf" />
     <Content Include="App_Themes\Standard\images\recensioni\olivella.pdf" />
+    <Content Include="Documenti\Brochure Dinner Out Consulting.pdf" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
