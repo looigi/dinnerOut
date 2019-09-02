@@ -111,13 +111,13 @@ function ritornaTesto(numeroTesto) {
             testo += "<p>Nasco nel 1975 nel quartiere dell' EUR trascorro un adolescenza abbastanza normale mi diplomo come perito elettronico, successivamente parto ";
             testo += "per il servizio militare finita la leva entro con un concorso a lavorare in un ministero.</p>";
             testo += "<p>Con il trascorrere del tempo mi rendo conto che quello non è il lavoro che fa per me, finché un giorno a seguito di un incidente in moto mi ";
-            testo += "tiene fuori dell'ufficio per circa quattro mesi in questo tempo vado a fare un corso di pizza on un amico perché la convalescenza era troppo ";
-            testo += "lunga e da lì mi si è aperto un mondo che mi ha coinvolto come un vortice che  a dato senso lavorativo alla mia vita.</p>"
+            testo += "tiene fuori dell'ufficio per circa quattro mesi in questo tempo vado a fare un corso di pizza con un amico perché la convalescenza era troppo ";
+            testo += "lunga e da lì mi si è aperto un mondo che mi ha coinvolto come un vortice che ha dato senso lavorativo alla mia vita.</p>"
             testo += "<p>Terminato il corso comincio a fare pratica nelle varie pizzerie e forni di Roma acquistando sempre più conoscenza e capacità tecnico - pratiche, ";
             testo += "portandomi ad un bivio rimanere nel cosi detto fisso o provare a far vedere le mie capacità, la scelta è stata a occhi chiusi quella di proseguire con ";
             testo += "questa nuova avventura sempre appoggiato  dalla mia famiglia.</p>";
-            testo += "<p>--La passione per l'arte bianca mi porta a condurre degli studi di chimica e biologia che non avrei mai pensato che acqua - farina - è lievito potevano ";
-            testo += "nascondere dietro di loro questo mi ha portato a conseguire un master da istruttore con la più autorevole scuola di pizza italiana  la quale qualche anno ";
+            testo += "<p>--La passione per l'arte bianca mi porta a condurre degli studi di chimica e biologia che non avrei mai pensato che acqua - farina - e lievito potevano ";
+            testo += "nascondere dietro di loro questo mi ha portato a conseguire un master da istruttore con la più autorevole scuola di pizza italiana la quale qualche anno ";
             testo += "prima mi aveva come allievo ed ora come docente istruttore.</p>";
             testo += "<p>Il mio percorso va sempre più un salita conseguo riconoscimenti livello regionali, italiani ed internazionali vincendo molte competizioni, oltre al ";
             testo += "lavoro di pizzaiolo divento un consulente per alcune aziende leader del settore, la gratificazione più importanti è quando i mulini che producono ";
