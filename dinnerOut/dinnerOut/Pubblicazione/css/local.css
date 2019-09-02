@@ -10,6 +10,9 @@
     line-height: 1.6em;
 }
 
+.italico {
+    font-style: italic !important;
+}
 .grassetto {
     font-weight: bold !important;
 }

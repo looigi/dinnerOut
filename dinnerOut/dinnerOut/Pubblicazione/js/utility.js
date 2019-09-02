@@ -108,6 +108,25 @@ function ritornaTesto(numeroTesto) {
             break;
         case 7:
             testo += "<p>MIRKO COVINO</p>";
+            testo += "<p>Nasco nel 1975 nel quartiere dell' EUR trascorro un adolescenza abbastanza normale mi diplomo come perito elettronico, successivamente parto ";
+            testo += "per il servizio militare finita la leva entro con un concorso a lavorare in un ministero.</p>";
+            testo += "<p>Con il trascorrere del tempo mi rendo conto che quello non è il lavoro che fa per me, finché un giorno a seguito di un incidente in moto mi ";
+            testo += "tiene fuori dell'ufficio per circa quattro mesi in questo tempo vado a fare un corso di pizza on un amico perché la convalescenza era troppo ";
+            testo += "lunga e da lì mi si è aperto un mondo che mi ha coinvolto come un vortice che  a dato senso lavorativo alla mia vita.</p>"
+            testo += "<p>Terminato il corso comincio a fare pratica nelle varie pizzerie e forni di Roma acquistando sempre più conoscenza e capacità tecnico - pratiche, ";
+            testo += "portandomi ad un bivio rimanere nel cosi detto fisso o provare a far vedere le mie capacità, la scelta è stata a occhi chiusi quella di proseguire con ";
+            testo += "questa nuova avventura sempre appoggiato  dalla mia famiglia.</p>";
+            testo += "<p>--La passione per l'arte bianca mi porta a condurre degli studi di chimica e biologia che non avrei mai pensato che acqua - farina - è lievito potevano ";
+            testo += "nascondere dietro di loro questo mi ha portato a conseguire un master da istruttore con la più autorevole scuola di pizza italiana  la quale qualche anno ";
+            testo += "prima mi aveva come allievo ed ora come docente istruttore.</p>";
+            testo += "<p>Il mio percorso va sempre più un salita conseguo riconoscimenti livello regionali, italiani ed internazionali vincendo molte competizioni, oltre al ";
+            testo += "lavoro di pizzaiolo divento un consulente per alcune aziende leader del settore, la gratificazione più importanti è quando i mulini che producono ";
+            testo += "farina per il settore pizza mi hanno chiamato per essere un loro tecnico dimostratore come qualità di Ambassador, oggi rimango sempre nel circuito ";
+            testo += "delle competizione di pizza ma come giudice di gara.</p>";
+            testo += "<p>Il mondo degli sfarinati è sempre in continua evoluzione ed ogni giorno si imparano sempre cose nuove che prima non so sapevano, difficilmente credo ";
+            testo += "ci sia un lavoro stimolante e coinvolgente come questo, quindi mi ritengo molto fortunato a fare un lavoro che mi piace.</p>";
+            testo += "<p>Ad oggi tutte le mie decisioni in campo di pizza mi hanno sempre portato a fare bene, concludo dicendo che credere nelle proprie capacità porta ad un ";
+            testo += "successo sicuro come il vecchio detto 'se si semina bene si raccoglie bene' ed oggi e la prima prima cosa che dico a tutti i i ragazzi al primo giorno di corso.</p>";
             break;
         case 8:
             testo += "<p>SALVO CRAVERO</p>";

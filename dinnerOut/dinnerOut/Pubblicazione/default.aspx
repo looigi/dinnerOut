@@ -17,18 +17,20 @@
 <body class="corpo" onload="calcRoute();">
     <div class="container-fluid">
         <div id="anchorHome" class="stileContenuto">
-            <div class="bxslider" style="width: 100%; ">
-                <div><img src="App_Themes/Standard/images/slider/00.png"></div>
-                <div><img src="App_Themes/Standard/images/slider/01.jpg"></div>
-                <div><img src="App_Themes/Standard/images/slider/02.jpg"></div>
-                <div><img src="App_Themes/Standard/images/slider/03.jpg"></div>
-                <div><img src="App_Themes/Standard/images/slider/04.jpg"></div>
-                <div><img src="App_Themes/Standard/images/slider/05.jpg"></div>
-            </div>
+            <center>
+                <div class="bxslider" style="width: 100%; ">
+                    <div><img src="App_Themes/Standard/images/slider/00.png"></div>
+                    <div><img src="App_Themes/Standard/images/slider/01.jpg"></div>
+                    <div><img src="App_Themes/Standard/images/slider/02.jpg"></div>
+                    <div><img src="App_Themes/Standard/images/slider/03.jpg"></div>
+                    <div><img src="App_Themes/Standard/images/slider/04.jpg"></div>
+                    <div><img src="App_Themes/Standard/images/slider/05.jpg"></div>
+                </div>
+            </center>
         </div>
 
         <div id="anchorAbout" class="stileContenuto">
-            <span class="Titolo">About Us</span>
+            <span class="Titolo">About Us</span> <br /><span class="testo dimeTestoNormale italico">Di cosa ci occupiamo</span>
             <br />
                 <div class="row">
                     <div class="col 12" style="text-align: left;">
@@ -55,7 +57,8 @@
 
         <div id="anchorPartners" class="stileContenuto">
             <span class="Titolo">
-                <img src="App_Themes/Standard/images/_icon7.png" />&nbsp;I Nostri Partners
+                <img src="App_Themes/Standard/images/_icon7.png" />&nbsp;I Nostri Partners<br /></span>
+                <span class="testo dimeTestoNormale italico">Con chi collaboriamo
             </span>
             <br />
             <div class="row">
@@ -106,47 +109,141 @@
         <div id="anchorServizi" class="stileContenuto">
             <img src="App_Themes/Standard/images/_icon9.png" />&nbsp;<span class="Titolo">Servizi</span>
             <br />
-            <span class="testo dimeTestoNormale">
-                I nostri principali servizi<br /><br />
+            <span class="testo dimeTestoNormale italico">
+                Perchè Possiamo esserVi di aiuto<br /><br />
             </span>
             <div style="text-align: left;">
                 <span class="testo dimeTestoNormale">
-                    Il nostro scopo principale è aiutare il cliente al raggiungimento dell'obiettivo in modo che sia sempre satisfattivo sotto il profilo lavorativo, economico e di mercato.
-                    I nostri punti di forza sono:<br /><br />
+                    La Dinner Out COnsulting offre una consulenza tecnica per lo start-up, la revisione e il restyling delle seguenti attività commerciali:<br /><br />
+                    <ul>
+                        <li>Ristorazione</li>
+                        <li>Bar</li>
+                        <li>GDO</li>
+                        <li>Enoteca</li>
+                        <li>Vendita al dettaglio</li>
+                        <li>Alberghiero</li>
+                        <li>Comunità</li>
+                        <li>Mense aziendali</li>
+                        <li>Catering & Banqueting</li>
+                        <li>Take-Away</li>
+                    </ul>
+                    <br />
+                    Visto l'attuale interesse rivolto sia alla qualità che alla semplicità del cibo e della ristorazione, l'intento è fondere e sviluppare nuovi
+                    concept di vendita e di distribuzione dell'alta gastronomia rispettando le stagionalità dei prodotti.<br /><br />
                 </span>
             </div>
             <ul>
                 <li>
                     <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/concept.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">CONCEPT:</span>&nbsp;
                         <span class="testo dimeTestoNormale">
-                            Avviare o riavviare attività ristorative quali bar, pizzerie, catering e banqueting, hotel e enoteche, ristoranti, mense aziendali, comunità.
+                            Ideiamo e formuliamo la filosofia del locale, sviluppiamo l'offerta al pubblico, proponendo nuovi modi di comunicare e promuovere l'attività.
                         </span>
                     </div>
                 </li>
-                <li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/progettazione.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">PROGETTAZIONE:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Il nostro staff si avvale di tecnici per supportare il cliente nella progettazione dei locali al fine di ottimizzare gli spazi.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/supporto.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">SUPPORTO CREATIVO:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Ottimizziamo i materiali di lavoro esistenti e se necessario ne cerchiamo nuovi, sviluppiamo il marketing e l'ideazione del merchandising dell'azienda.
+                            <br />
+                            Ricerchiamo i fornitori scegliendo la migliore qualità/prezzo, con eventuale procacciamento di 'premi di fine anno' e la ricerca di sponsor.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/supporto tecnico.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">SUPPORTO TECNICO:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Il nostro supporto va dalla formazione della brigata di cucina a quella del personale di sala, bar e vendita al dettaglio. Se richiesto supportiamo il cliente nella scelta del vestiario di tutto il personale
+                            creando sia l'immagine tecnica sia quella del punto vendita.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/area vendita.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">AREA VENDITA:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Studiamo e creiamo le offerte gastronomiche, ideiamo i menù sia per i contenuti sia per l'impatto estetico dei piatti
+                            passando successivamente alla scelta della mise en place. Allestiamo una rastrelliera (enoteca, carta dei vini) idonea sia al concept del locale
+                            sia al menù scelto, con indicazioni della cantina e degli acquisti (rotazione).
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/recruiting.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">RECRUITING:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Selezionamo e forniamo il personale per l'apertura e lo seguiamo nelle fasi delicate della gestione.
+                            La formazione dell'organico comprende anche l'abilitazione del personale ai controlli di gestione, come
+                            monitorare le giacenze nei magazzini (Food & Beverage).
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
                     <div style="text-align: left;">
                         <span class="testo dimeTestoNormale">
-                            Analizzare la qualità dell'offerta, i costi, la gestione della crisi economica, la qualità dell'offerta al pubblico.
+                            Si renderà il personale in grado di lavorare in piena autonomia. Per quanto riguarda la cucina si istruirà lo staff
+                            dando il giusto supporto per avere in breve tempo il controllo approfondito del food-cost. S'insegnerà l'arte del servizio,
+                            del menù a la carte, del buffet o della formula Brunch, analizzando tutti gli aspetti, la gestione tecnica per 
+                            l'organizzazione dei singoli reparti, ma soprattutto le forma e i tempi di accoglienza del cliente.
+                            <br />Controlliamo in remoto tutti i reparti.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/software.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">SOFTWARE:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Disponiamo della migliore azienda sul mercato cvhe avrà cura di presentare un programma informatico, per la
+                            gestione e l'elaborazione delle statistiche di vendita e di gestione del magazzino.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/startup.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">START UP:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            E' una delle fasi più delicate del percorso, l'apertura al pubblico. In fase di pre.opening e start-up
+                            saremo presenti in maniera costante, la nostra azienda seguirà accuratamente tutti i reparti.
+                        </span>
+                    </div>
+                </li>
+                <li style="margin-top: 30px;">
+                    <div style="text-align: left;">
+                        <img src="App_Themes/Standard/images/icone/comunicazione.png" style="width: 70px; height: 70px;"/>
+                        <span class="testo dimeTestoNormale grassetto">COMUNICAZIONE:</span>&nbsp;
+                        <span class="testo dimeTestoNormale">
+                            Si avrà cura di progettare sistemi e strategie per comunicare al meglio la Vostra attività.
+                            Studiando lanci e piani di comunicazione, supportando il cliente nell'ideazione di eventi promozionali,
+                            feste, celebrazioni, lanci di prodotti, focus con la stampa, educational. La Dinner Out seguirà l'azienda
+                            con un ufficio stampa.
                         </span>
                     </div>
                 </li>
             </ul>
             <br />
-            <br />
-            <img src="App_Themes/Standard/images/_icon14.png" />&nbsp;<span class="Titolo">Strategie</span>
-            <br />
-            <div style="text-align: left;">
-                <span class="testo dimeTestoNormale">
-                    Start-Up<br />
-                    Analizziamo in primo luogo le opportunità di mercato e valutiamo insieme al cliente la solidità e le prospettive per il tipo di business intrapreso.
-                    <br />
-                    Attuiamo le strategie per essere competitivi dopo un'attenta analisi del mercato e della location. Procediamo successivamente a dare vita al piano operativo considerando l'aspetto finanziario delle scelte effettuate.
-                </span>
-            </div>
         </div>
 
         <div id="anchorTeam" class="stileContenuto">
-            <img src="App_Themes/Standard/images/_icon12.png" />&nbsp;<span class="Titolo">Il Team</span>
+            <img src="App_Themes/Standard/images/_icon12.png" />&nbsp;<span class="Titolo">Il Team<br /></span>
+            <span class="testo dimeTestoNormale italico">Il nostro gruppo di lavoro</span>
             <br />
             <div class="row">
                 <div id="divTeam1" class="col casellaTeam" style="text-align: center;" 
@@ -344,7 +441,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="col-12" onmouseover="accendiBarretta(barrettaTasto1);" onmouseout="spegniBarretta(barrettaTasto1);">
-                                <div class="nav-link" onclick="ScrollTo('anchorHome')">Home <span class="sr-only">(current)</span></div>
+                                <div class="nav-link" onclick="ScrollTo('anchorHome')" title="Home">Home <span class="sr-only">(current)</span></div>
                             </div>
                             <div id="barrettaTasto1" class="col-12" style="height: 5px; background-color: white;">
                             </div>
@@ -355,7 +452,7 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="col-12" onmouseover="accendiBarretta(barrettaTasto2);" onmouseout="spegniBarretta(barrettaTasto2);">
-                                <div class="nav-link" onclick="ScrollTo('anchorAbout')">About Us <span class="sr-only">(current)</span></div>
+                                <div class="nav-link" onclick="ScrollTo('anchorAbout')" title="Di cosa ci occupiamo">About Us <span class="sr-only">(current)</span></div>
                             </div>
                             <div id="barrettaTasto2" class="col-12" style="height: 5px; background-color: white;">
                             </div>
@@ -365,19 +462,8 @@
                     <li class="nav-item active">
                     <div class="row">
                         <div class="col-12">
-                            <div class="col-12" onmouseover="accendiBarretta(barrettaTasto4);" onmouseout="spegniBarretta(barrettaTasto4);">
-                                <div class="nav-link" onclick="ScrollTo('anchorPartners')">I Partners <span class="sr-only">(current)</span></div>
-                            </div>
-                            <div id="barrettaTasto4" class="col-12" style="height: 5px; background-color: white;">
-                            </div>
-                        </div>
-                    </div>
-                    </li>
-                    <li class="nav-item active">
-                    <div class="row">
-                        <div class="col-12">
                             <div class="col-12" onmouseover="accendiBarretta(barrettaTasto5);" onmouseout="spegniBarretta(barrettaTasto5);">
-                                <div class="nav-link" onclick="ScrollTo('anchorServizi')">Servizi <span class="sr-only">(current)</span></div>
+                                <div class="nav-link" onclick="ScrollTo('anchorServizi')" title="Perché possiamo esservi di aiuto">Servizi <span class="sr-only">(current)</span></div>
                             </div>
                             <div id="barrettaTasto5" class="col-12" style="height: 5px; background-color: white;">
                             </div>
@@ -388,9 +474,20 @@
                     <div class="row">
                         <div class="col-12">
                             <div class="col-12" onmouseover="accendiBarretta(barrettaTasto3);" onmouseout="spegniBarretta(barrettaTasto3);">
-                                <div class="nav-link" onclick="ScrollTo('anchorTeam')">Il Team <span class="sr-only">(current)</span></div>
+                                <div class="nav-link" onclick="ScrollTo('anchorTeam')" title="Il nostro gruppo di lavoro">Il Team <span class="sr-only">(current)</span></div>
                             </div>
                             <div id="barrettaTasto3" class="col-12" style="height: 5px; background-color: white;">
+                            </div>
+                        </div>
+                    </div>
+                    </li>
+                    <li class="nav-item active">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="col-12" onmouseover="accendiBarretta(barrettaTasto4);" onmouseout="spegniBarretta(barrettaTasto4);">
+                                <div class="nav-link" onclick="ScrollTo('anchorPartners')" title="Con chi collaboriamo">I Partners <span class="sr-only">(current)</span></div>
+                            </div>
+                            <div id="barrettaTasto4" class="col-12" style="height: 5px; background-color: white;">
                             </div>
                         </div>
                     </div>
